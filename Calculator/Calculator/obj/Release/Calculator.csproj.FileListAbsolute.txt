@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Release\Calculator.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Release\Calculator.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Release\Calculator.pdb

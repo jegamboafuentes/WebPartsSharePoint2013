@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="06ae0266-154a-471e-9d7d-db6f85d5291a" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="WepApplicationFirst.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="WepApplicationFirst, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6c0a3b06ab5a052d" Namespace="WepApplicationFirst.HelloWorld" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="WepApplicationFirst_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

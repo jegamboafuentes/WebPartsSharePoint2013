@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="EditPropertiesWebPart" List="113" Url="_catalogs/wp">
+    <File Path="EditPropertiesWebPart\EditPropertiesWebPart.webpart" Url="EditPropertyWebProject_EditPropertiesWebPart.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

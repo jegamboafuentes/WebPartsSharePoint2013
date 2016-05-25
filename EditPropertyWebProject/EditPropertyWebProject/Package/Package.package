@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a0ee27fc-68bb-4153-8d2b-7df7cb049df3" solutionId="a0ee27fc-68bb-4153-8d2b-7df7cb049df3" resetWebServer="false" sharePointProductVersion="15.0" name="EditPropertyWebProject" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="624dc5a2-0a2f-401f-9c0c-742d49422c18" />
+  </features>
+</package>

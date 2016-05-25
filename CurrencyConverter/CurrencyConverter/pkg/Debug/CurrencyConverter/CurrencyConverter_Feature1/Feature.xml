@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="7752a91b-6235-43b5-b3e6-93197e8a5c91" Scope="Site" Title="CurrencyConverter Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CurrencyConverterWebPart\Elements.xml" />
+    <ElementFile Location="CurrencyConverterWebPart\CurrencyConverterWebPart.webpart" />
+  </ElementManifests>
+</Feature>

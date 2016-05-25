@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a0ee27fc-68bb-4153-8d2b-7df7cb049df3" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="EditPropertyWebProject.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="EditPropertyWebProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9977f9b3571b0171" Namespace="EditPropertyWebProject.EditPropertiesWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="EditPropertyWebProject_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

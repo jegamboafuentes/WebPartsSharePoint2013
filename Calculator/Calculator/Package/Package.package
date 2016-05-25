@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4d450469-b149-4e3c-803a-85dafdac9052" solutionId="4d450469-b149-4e3c-803a-85dafdac9052" resetWebServer="false" sharePointProductVersion="15.0" name="Calculator" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="16d2d490-7c7a-4e4f-abab-8ba2e0d37712" />
+  </features>
+</package>

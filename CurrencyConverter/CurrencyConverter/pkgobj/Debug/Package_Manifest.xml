@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8bc3a0c6-2112-4902-87e5-4f6d5cacff8b" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CurrencyConverter.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CurrencyConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3b922a0279f07eb9" Namespace="CurrencyConverter.CurrencyConverterWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CurrencyConverter_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

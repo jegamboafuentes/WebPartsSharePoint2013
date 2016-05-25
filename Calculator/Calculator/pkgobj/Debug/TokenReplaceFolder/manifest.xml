@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="4d450469-b149-4e3c-803a-85dafdac9052" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Calculator.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Calculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dcc96b73e13e1bfb" Namespace="Calculator.CalcuatorWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Calculator_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

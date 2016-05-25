@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8bc3a0c6-2112-4902-87e5-4f6d5cacff8b" solutionId="8bc3a0c6-2112-4902-87e5-4f6d5cacff8b" resetWebServer="false" sharePointProductVersion="15.0" name="CurrencyConverter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6af46345-34c3-4f29-b9e3-76b7e863b3f0" />
+  </features>
+</package>

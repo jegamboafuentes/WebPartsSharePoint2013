@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="9a60cb9d-e65e-4bf4-b1e8-aef96ab4dcb1" Scope="Site" Title="EditPropertyWebProject Feature1">
+  <ElementManifests>
+    <ElementManifest Location="EditPropertiesWebPart\Elements.xml" />
+    <ElementFile Location="EditPropertiesWebPart\EditPropertiesWebPart.webpart" />
+  </ElementManifests>
+</Feature>

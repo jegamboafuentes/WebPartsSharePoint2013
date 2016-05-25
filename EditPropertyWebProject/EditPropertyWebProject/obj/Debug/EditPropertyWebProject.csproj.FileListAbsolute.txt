@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\EditPropertyWebProject\EditPropertyWebProject\bin\Debug\EditPropertyWebProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\EditPropertyWebProject\EditPropertyWebProject\bin\Debug\EditPropertyWebProject.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\EditPropertyWebProject\EditPropertyWebProject\obj\Debug\EditPropertyWebProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\EditPropertyWebProject\EditPropertyWebProject\obj\Debug\EditPropertyWebProject.pdb
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\EditPropertyWebProject\EditPropertyWebProject\obj\Debug\EditPropertyWebProject.csprojResolveAssemblyReference.cache
