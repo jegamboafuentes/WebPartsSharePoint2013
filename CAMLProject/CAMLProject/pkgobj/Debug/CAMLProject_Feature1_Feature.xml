@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ee00449c-555c-4a93-ba21-c83b64c25b81" Scope="Site" Title="CAMLProject Feature1">
+  <ElementManifests>
+    <ElementManifest Location="WebPart1\Elements.xml" />
+    <ElementFile Location="WebPart1\WebPart1.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,5 @@
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\AsyncEventReceiverProject\AsyncEventReceiverProject\bin\Debug\AsyncEventReceiverProject.dll
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\AsyncEventReceiverProject\AsyncEventReceiverProject\bin\Debug\AsyncEventReceiverProject.pdb
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\AsyncEventReceiverProject\AsyncEventReceiverProject\obj\Debug\AsyncEventReceiverProject.csprojResolveAssemblyReference.cache
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\AsyncEventReceiverProject\AsyncEventReceiverProject\obj\Debug\AsyncEventReceiverProject.dll
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\AsyncEventReceiverProject\AsyncEventReceiverProject\obj\Debug\AsyncEventReceiverProject.pdb

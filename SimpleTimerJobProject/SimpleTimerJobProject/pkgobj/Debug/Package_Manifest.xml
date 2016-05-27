@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fdbb4292-e9dc-4539-8d74-d02d77954235" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SimpleTimerJobProject.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SimpleTimerJobProject_SimpleJobFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

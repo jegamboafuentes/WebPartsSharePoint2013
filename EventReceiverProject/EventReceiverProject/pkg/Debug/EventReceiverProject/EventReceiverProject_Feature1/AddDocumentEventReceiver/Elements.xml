@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="101">
+      <Receiver>
+        <Name>AddDocumentEventReceiverItemUpdated</Name>
+        <Type>ItemUpdated</Type>
+        <Assembly>EventReceiverProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=24c70b0e1a1b8936</Assembly>
+        <Class>EventReceiverProject.AddDocumentEventReceiver.AddDocumentEventReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+  </Receivers>
+</Elements>

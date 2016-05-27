@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\CustomerInvoiceProject\CustomerInvoiceProject\bin\Debug\CustomerInvoiceProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CustomerInvoiceProject\CustomerInvoiceProject\bin\Debug\CustomerInvoiceProject.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\CustomerInvoiceProject\CustomerInvoiceProject\obj\Debug\CustomerInvoiceProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CustomerInvoiceProject\CustomerInvoiceProject\obj\Debug\CustomerInvoiceProject.pdb
+C:\Users\SPAdmin\Documents\Visual Studio 2012\Projects\CustomerInvoiceProject\CustomerInvoiceProject\obj\Debug\CustomerInvoiceProject.csprojResolveAssemblyReference.cache

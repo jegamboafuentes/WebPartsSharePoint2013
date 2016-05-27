@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="9ea35c23-8f65-459e-bb07-018723550c7e" ReceiverAssembly="SimpleTimerJobProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9715a01033f1271d" ReceiverClass="SimpleTimerJobProject.Features.SimpleJobFeature.SimpleJobFeatureEventReceiver" Scope="WebApplication" Title="SimpleTimerJobProject Feature1"></Feature>

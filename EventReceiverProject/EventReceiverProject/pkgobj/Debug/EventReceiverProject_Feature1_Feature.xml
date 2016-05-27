@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="EventReceiverProject Feature1" Id="f44c8dfe-d6e1-4770-8d5e-c1effbc8fb56" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="AddDocumentEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

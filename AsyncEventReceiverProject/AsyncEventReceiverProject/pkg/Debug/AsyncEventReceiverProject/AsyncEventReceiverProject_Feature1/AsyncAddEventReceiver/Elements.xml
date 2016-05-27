@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+<Receivers>
+<Receiver>
+<Name>AsyncAddEventReceiverItemUpdated</Name>
+<Type>ItemUpdated</Type>
+<Assembly>AsyncEventReceiverProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a62cfbc5c3efd372</Assembly>
+<Class>AsyncEventReceiverProject.AsyncAddEventReceiver.AsyncAddEventReceiver</Class>
+<SequenceNumber>10000</SequenceNumber>
+</Receiver>
+</Receivers>
+</Elements>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f4848174-ae87-47db-a02d-bfc8cddb00d9" Scope="Site" Title="CustomerInvoiceProject Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CustomerInvoiceWebPart\Elements.xml" />
+    <ElementFile Location="CustomerInvoiceWebPart\CustomerInvoiceWebPart.webpart" />
+  </ElementManifests>
+</Feature>

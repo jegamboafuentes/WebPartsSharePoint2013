@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="CalculatorJS.CalculatorJS.CalculatorJS, CalculatorJS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e0d7a87f0179dc8e" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">CalculatorJS - CalculatorJS</property>
+        <property name="Description" type="string">My Visual Web Part</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

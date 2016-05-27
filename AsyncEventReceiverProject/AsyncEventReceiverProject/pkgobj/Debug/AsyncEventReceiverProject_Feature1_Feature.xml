@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="cf3f97c6-c8fe-48de-8564-b9267698cc91" Scope="Web" Title="AsyncEventReceiverProject Feature1">
+  <ElementManifests>
+    <ElementManifest Location="AsyncAddEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

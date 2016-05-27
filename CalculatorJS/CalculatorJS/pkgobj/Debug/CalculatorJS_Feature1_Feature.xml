@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d563c935-d8c8-47fe-aead-75180b10af6c" Scope="Site" Title="CalculatorJS Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CalculatorJS\Elements.xml" />
+    <ElementFile Location="CalculatorJS\CalculatorJS.webpart" />
+  </ElementManifests>
+</Feature>

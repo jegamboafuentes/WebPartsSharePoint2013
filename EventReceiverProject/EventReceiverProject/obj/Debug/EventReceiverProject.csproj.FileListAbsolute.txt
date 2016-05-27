@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\EventReceiverProject\EventReceiverProject\bin\Debug\EventReceiverProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\EventReceiverProject\EventReceiverProject\bin\Debug\EventReceiverProject.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\EventReceiverProject\EventReceiverProject\obj\Debug\EventReceiverProject.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2012\Projects\EventReceiverProject\EventReceiverProject\obj\Debug\EventReceiverProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\EventReceiverProject\EventReceiverProject\obj\Debug\EventReceiverProject.pdb

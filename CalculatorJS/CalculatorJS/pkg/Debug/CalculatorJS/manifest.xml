@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f2ebc05a-7fd8-4ffd-93cd-6ad9c1bb1a99" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CalculatorJS.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CalculatorJS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e0d7a87f0179dc8e" Namespace="CalculatorJS.CalculatorJS" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\CalculatorJS\logic.js" />
+    <TemplateFile Location="Layouts\CalculatorJS\view.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="CalculatorJS_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

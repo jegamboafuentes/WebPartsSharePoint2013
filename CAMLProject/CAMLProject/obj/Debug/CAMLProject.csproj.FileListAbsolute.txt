@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\CAMLProject\CAMLProject\bin\Debug\CAMLProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CAMLProject\CAMLProject\bin\Debug\CAMLProject.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\CAMLProject\CAMLProject\obj\Debug\CAMLProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CAMLProject\CAMLProject\obj\Debug\CAMLProject.pdb

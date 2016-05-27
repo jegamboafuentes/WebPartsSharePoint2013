@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f2ebc05a-7fd8-4ffd-93cd-6ad9c1bb1a99" solutionId="f2ebc05a-7fd8-4ffd-93cd-6ad9c1bb1a99" resetWebServer="false" sharePointProductVersion="15.0" name="CalculatorJS" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="dc636f30-dd29-4a34-871b-c935d1d6dbe9" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="78bdc7be-62a0-4631-a34b-ba463bc6e6eb" />
+  </projectItems>
+</package>

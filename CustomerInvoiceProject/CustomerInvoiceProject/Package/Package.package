@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8642d29a-0a9b-413c-9d38-e18b061686ed" solutionId="8642d29a-0a9b-413c-9d38-e18b061686ed" resetWebServer="false" sharePointProductVersion="15.0" name="CustomerInvoiceProject" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="fbe82fb8-988f-434c-b231-fe39a86fb20a" />
+  </features>
+</package>

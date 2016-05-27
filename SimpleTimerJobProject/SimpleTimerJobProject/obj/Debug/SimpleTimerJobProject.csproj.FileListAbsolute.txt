@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\SimpleTimerJobProject\SimpleTimerJobProject\bin\Debug\SimpleTimerJobProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\SimpleTimerJobProject\SimpleTimerJobProject\bin\Debug\SimpleTimerJobProject.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\SimpleTimerJobProject\SimpleTimerJobProject\obj\Debug\SimpleTimerJobProject.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\SimpleTimerJobProject\SimpleTimerJobProject\obj\Debug\SimpleTimerJobProject.pdb

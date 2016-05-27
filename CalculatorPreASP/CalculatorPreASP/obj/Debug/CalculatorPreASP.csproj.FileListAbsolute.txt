@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorPreASP\CalculatorPreASP\bin\CalculatorPreASP.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorPreASP\CalculatorPreASP\bin\CalculatorPreASP.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorPreASP\CalculatorPreASP\obj\Debug\CalculatorPreASP.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorPreASP\CalculatorPreASP\obj\Debug\CalculatorPreASP.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorPreASP\CalculatorPreASP\obj\Debug\CalculatorPreASP.pdb

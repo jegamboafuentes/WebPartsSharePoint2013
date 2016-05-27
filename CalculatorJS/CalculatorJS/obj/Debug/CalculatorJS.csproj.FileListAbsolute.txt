@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorJS\CalculatorJS\bin\Debug\CalculatorJS.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorJS\CalculatorJS\bin\Debug\CalculatorJS.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorJS\CalculatorJS\obj\Debug\CalculatorJS.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\CalculatorJS\CalculatorJS\obj\Debug\CalculatorJS.pdb

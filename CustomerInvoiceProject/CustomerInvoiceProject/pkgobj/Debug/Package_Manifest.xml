@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8642d29a-0a9b-413c-9d38-e18b061686ed" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CustomerInvoiceProject.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CustomerInvoiceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f2e604a2567698c" Namespace="CustomerInvoiceProject.CustomerInvoiceWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CustomerInvoiceProject_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
