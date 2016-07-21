@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="0bb83188-193d-40b4-9115-6b4068ea8861" 
+        solutionId="0bb83188-193d-40b4-9115-6b4068ea8861" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="LaptopManageMetadata2"
+        sharePointProductVersion="15.0">
+    <features>
+        <featureReference itemId="31dc2834-e7fe-495d-b859-94508a3b8a6e" />
+    </features>
+</package>

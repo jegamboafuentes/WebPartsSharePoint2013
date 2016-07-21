@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2012\Projects\LaptopManageMetadata2\LaptopManageMetadata2\bin\Debug\LaptopManageMetadata2.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\LaptopManageMetadata2\LaptopManageMetadata2\bin\Debug\LaptopManageMetadata2.pdb
+c:\users\spadmin\documents\visual studio 2012\Projects\LaptopManageMetadata2\LaptopManageMetadata2\obj\Debug\LaptopManageMetadata2.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2012\Projects\LaptopManageMetadata2\LaptopManageMetadata2\obj\Debug\LaptopManageMetadata2.dll
+c:\users\spadmin\documents\visual studio 2012\Projects\LaptopManageMetadata2\LaptopManageMetadata2\obj\Debug\LaptopManageMetadata2.pdb

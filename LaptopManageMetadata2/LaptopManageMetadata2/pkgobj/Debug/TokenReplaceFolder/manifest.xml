@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="0bb83188-193d-40b4-9115-6b4068ea8861" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="LaptopManageMetadata2.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="LaptopManageMetadata2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3e40771f865bac8f" Namespace="LaptopManageMetadata2.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="LaptopManageMetadata2_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
